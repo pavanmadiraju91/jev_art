@@ -24,7 +24,9 @@ It should look like this:
 TYPESAFE_API_KEY=your-secret-key-goes-here
 ```
 
-> Don't have a key? Get one at https://console.typesafe.ai — then paste it in.
+> **Don't have a key yet?**
+> Sign up for the waitlist at https://typesafe.ai — you'll get access to Jev soon.
+> Once you're in, grab your key from https://console.typesafe.ai/settings/keys and paste it in above.
 
 ---
 
